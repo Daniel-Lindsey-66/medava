@@ -1,0 +1,27 @@
+Questions:
+
+1. There are a variety of Java Development Kits available to use from Microsoft, Oracle, RedHat etc.; is there a major difference between JDKs?
+
+2. If so, is there a general consensus or a preferred JDK?
+
+3. If not, what is your preferred JDK?
+
+4. Is there a reason why all types of lists are defined as subclasses of the list abstract class? 
+
+5. Since the list class just specifies the supported methods of its subclasses wouldn’t it just be easier to have the subclasses be actual classes that specify and implement their own methods?
+
+6. Other than encapsulation is there any other methods of data hiding?
+
+7. If so, do they differ based on the programming paradigm?
+
+8. Can virtual methods be used in other programming paradigms or are they restricted to OOP?
+
+9. Since there is late binding is there also early binding? If so, would early binding just be compile time binding?
+
+10. Does C++ include some type of annotation? I can’t remember if derived classes automatically override base class virtual functions.
+
+11. Being able to write constructors for enumerated types seems very handy. Is there a reason why other programming languages don’t have a similar functionality?
+
+12. Does C++ give the ability to specify rules for this as well? Or does it just throw an exception that must be caught or otherwise dealt with?
+
+13. Does reflection work in C++ or is it something Java specific? Based on the definition from Sebesta it would seem that other languages must utilize it in some form as well.
